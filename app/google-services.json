@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "606456950083",
+    "project_id": "popularmovies-ccd2d",
+    "storage_bucket": "popularmovies-ccd2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606456950083:android:5e1be9a439a4e3dad253f6",
+        "android_client_info": {
+          "package_name": "com.example.popularmovies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606456950083-vnjo0qbgqa6r6a5hpsgp201jnpum1ld7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-j5siAXFRWl3SGNOnFEsYENIqhXgDDZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606456950083-vnjo0qbgqa6r6a5hpsgp201jnpum1ld7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

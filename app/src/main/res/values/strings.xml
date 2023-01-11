@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="prev_page">prev page</string>
+    <string name="textViewAccountNew">Create an account</string>
+    <string name="textViewLogin">Login</string>
+    <string name="textViewAccountExist">Do you already have an account?</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+</resources>
